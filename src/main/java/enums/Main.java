@@ -15,5 +15,6 @@ public class Main {
         }
 
         System.out.println(a1.wochentag().getGerman());
+        System.out.println("Test");
     }
 }
