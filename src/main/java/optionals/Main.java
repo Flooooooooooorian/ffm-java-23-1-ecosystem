@@ -22,5 +22,8 @@ public class Main {
 
         Product p2 = optionalProduct.orElse(new Product("test", "test"));
         System.out.println(p2);
+
+
+        System.out.println("Feature A");
     }
 }
